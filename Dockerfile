@@ -1,7 +1,6 @@
 # Innowise-Group GitLab CI: Android v1.0
 # Build Tools: v28.0.3
 # Platforms: 27, 28
-# https://cloud.docker.com/repository/docker/innowisegroup/docker-android-sdk
 
 FROM ubuntu:18.04
 
